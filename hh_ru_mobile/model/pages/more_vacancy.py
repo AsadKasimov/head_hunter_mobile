@@ -1,3 +1,4 @@
+import time
 from appium.webdriver.common.appiumby import AppiumBy
 from appium.webdriver.common.mobileby import MobileBy
 from selene.support.shared import browser
@@ -7,6 +8,7 @@ import allure
 
 def scroll_to_button():
     with allure.step(f'Скролим до кнопки'):
+
         scrolling.scroll_to(type_selector=MobileBy.ID,
                             from_selector='ru.hh.android:id/cell_section_header_large_narrow_text_view', x=0, y=-2700)
 
