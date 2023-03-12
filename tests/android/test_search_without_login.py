@@ -5,7 +5,7 @@ from hh_ru_mobile.model.controls.skip_login import skip_login
 
 @allure.parent_suite('Mobile')
 @allure.suite('Поиск без авторизации')
-@allure.title(f"Поиск с параметрами")
+@allure.title(f"Поиск обычный")
 def test_search_without_login():
     skip_login()
     search_without_login.click_search_container()
