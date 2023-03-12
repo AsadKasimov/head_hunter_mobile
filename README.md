@@ -4,18 +4,18 @@
 
 ### Используемые технологии
 <p  align="center">
-  <code><img width="5%" title="Python" src="./images/icons/Python-logo-notext.svg"></code>
-  <code><img width="5%" title="PyCharm" src="./images/icons/pycharm.svg"></code>
-  <code><img width="6%" title="PyCharm" src="./images/icons/pytest.png"></code>
-  <code><img width="6%" title="PyCharm" src="./images/icons/selene.png"></code>
-  <code><img width="5%" title="Allure Report" src="./images/icons/allure-Report-logo.svg"></code>
-  <code><img width="5%" title="Allure TestOps" src="./images/icons/allure-ee-logo.svg"></code>
-  <code><img width="5%" title="Github" src="./images/icons/git-logo.svg"></code>
-  <code><img width="5%" title="Jenkins" src="./images/icons/jenkins-logo.svg"></code>
-  <code><img width="5%" title="Jira" src="./images/icons/jira-logo.svg"></code>
-  <code><img width="5%" title="Selenoid" src="./images/icons/selenoid-logo.svg"></code>
-  <code><img width="5%" title="Telegram" src="./images/icons/Telegram.svg"></code>
-  <code><img width="5%" title="Appium" src="./images/icons/Appium-01.png"></code>
+  <code><img width="5%" title="Python" src="./resourses/icons/Python-logo-notext.svg"></code>
+  <code><img width="5%" title="PyCharm" src="./resourses/icons/pycharm.svg"></code>
+  <code><img width="6%" title="PyCharm" src="./resourses/icons/pytest.png"></code>
+  <code><img width="6%" title="PyCharm" src="./resourses/icons/selene.png"></code>
+  <code><img width="5%" title="Allure Report" src="./resourses/icons/allure-Report-logo.svg"></code>
+  <code><img width="5%" title="Allure TestOps" src="./resourses/icons/allure-ee-logo.svg"></code>
+  <code><img width="5%" title="Github" src="./resourses/icons/git-logo.svg"></code>
+  <code><img width="5%" title="Jenkins" src="./resourses/icons/jenkins-logo.svg"></code>
+  <code><img width="5%" title="Jira" src="./resourses/icons/jira-logo.svg"></code>
+  <code><img width="5%" title="Selenoid" src="./resourses/icons/selenoid-logo.svg"></code>
+  <code><img width="5%" title="Telegram" src="./resourses/icons/Telegram.svg"></code>
+  <code><img width="5%" title="Appium" src="./resourses/icons/Appium-01.png"></code>
 
 </p>
 
