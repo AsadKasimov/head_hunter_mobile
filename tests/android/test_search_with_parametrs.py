@@ -4,7 +4,7 @@ from hh_ru_mobile.model.pages import search_with_parametrs
 
 
 @allure.parent_suite('Mobile')
-@allure.suite('Поиск')
+@allure.suite('Поиск с авторизацией')
 @allure.title(f"Поиск с параметрами")
 def test_search_with_parametrs():
     skip_login()
