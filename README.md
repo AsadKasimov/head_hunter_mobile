@@ -31,7 +31,7 @@
 
 <!-- Jenkins -->
 
-### <img width="3%" title="Jenkins" src="./images/icons/jenkins-logo.svg"> Запуск проекта в Jenkins
+### <img width="3%" title="Jenkins" src="./resourses/icons/jenkins-logo.svg"> Запуск проекта в Jenkins
 
 ### [Job](https://jenkins.autotests.cloud/job/003_python-edbeg1337-head-hunter-mobile/)
 
