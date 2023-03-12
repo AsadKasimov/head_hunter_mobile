@@ -10,3 +10,4 @@ demo
 browserstack_sample.py
 .env
 .experement.py
+/.gitattributes
