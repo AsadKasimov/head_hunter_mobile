@@ -16,7 +16,8 @@
   <code><img width="5%" title="Selenoid" src="./resourses/icons/selenoid-logo.svg"></code>
   <code><img width="5%" title="Telegram" src="./resourses/icons/Telegram.svg"></code>
   <code><img width="5%" title="Appium" src="./resourses/icons/Appium-01.png"></code>
-
+  <code><img width="5%" title="Appium" src="./resourses/icons/browserstack.png"></code>
+  <code><img width="5%" title="Appium" src="./resourses/icons/selenium.png"></code>
 </p>
 
 
@@ -85,7 +86,7 @@
 
 <!-- Telegram -->
 
-### <img width="3%" title="Telegram" src="images/logo_stacks/tg.png"> Интеграция с Telegram
+### <img width="3%" title="Telegram" src="./resourses/icons/Telegram.svg"> Интеграция с Telegram
 ##### После прохождения тестов, в Telegram bot приходит сообщение с графиком и небольшой информацией о тестах.
 
 ![This is an image](resourses/icons/alluret4.png)
