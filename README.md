@@ -45,16 +45,16 @@
 ### <img width="3%" title="Allure Report" src="images/logo_stacks/allure_report.png"> Allure report
 
 ##### После прохождения тестов, результаты можно посмотреть в Allure отчете, где так же содержится ссылка на Jenkins
-![This is an image](images/screenshots/allure_dashboard.png)
+![This is an image](resourses/icons/allure1.png)
 
 ##### Во вкладке Graphs можно посмотреть графики о прохождении тестов, по их приоритезации, по времени прохождения и др.
-![This is an image](images/screenshots/allure_graphs.png)
+![This is an image](resourses/icons/allure2.png)
 
 ##### Во вкладке Suites находятся собранные тест кейсы, у которых описаны шаги и приложены логи, скриншот и видео о прохождении теста
-![This is an image](images/screenshots/allure_suites.png)
+![This is an image](resourses/icons/allure3.png)
 
 ##### Видео прохождение теста
-![This is an image](images/screenshots/tests_ui.gif)
+![This is an image](resourses/icons/allure4.gif)
 
 
 <!-- Allure TestOps -->
