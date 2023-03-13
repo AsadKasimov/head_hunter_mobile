@@ -42,7 +42,7 @@
 
 <!-- Allure report -->
 
-### <img width="3%" title="Allure Report" src="images/logo_stacks/allure_report.png"> Allure report
+### <img width="3%" title="Allure Report" src="./resourses/icons/allure-Report-logo.svg"> Allure report
 
 ##### После прохождения тестов, результаты можно посмотреть в Allure отчете, где так же содержится ссылка на Jenkins
 ![This is an image](resourses/icons/allure1.png)
@@ -59,12 +59,12 @@
 
 <!-- Allure TestOps -->
 
-### <img width="3%" title="Allure TestOps" src="images/logo_stacks/allure_testops.png"> Интеграция с Allure TestOps
+### <img width="3%" title="Allure TestOps" src="./resourses/icons/allure-ee-logo.svg"> Интеграция с Allure TestOps
 
-### [Dashboard](https://allure.autotests.cloud/project/1720/dashboards)
+### [Dashboard](https://allure.autotests.cloud/project/2014/dashboards)
 
 ##### Так же вся отчетность сохраняется в Allure TestOps, где строятся аналогичные графики.
-![This is an image](images/screenshots/allure_testops_dashboard.png)
+![This is an image](resourses/icons/alluret1.png)
 
 #### Во вкладке со сьютами, мы можем:
 - Управлять всеми тест-кейсами или с каждым отдельно
@@ -72,15 +72,15 @@
 - Настроить интеграцию с Jira
 - Добавлять ручные тесты и т.д
 
-![This is an image](images/screenshots/allure_testops_suites.png)
+![This is an image](resourses/icons/alluret2.png)
 
 
 <!-- Jira -->
 
-### <img width="3%" title="Jira" src="images/logo_stacks/jira.png"> Интеграция с Jira
+### <img width="3%" title="Jira" src="./resourses/icons/jira-logo.svg"> Интеграция с Jira
 ##### Настроив через Allure TestOps интеграцию с Jira, в тикет можно пробросить результат прохождение тестов и список тест-кейсов из Allure
 
-![This is an image](images/screenshots/jira.png)
+![This is an image](resourses/icons/alluret3.png)
 
 
 <!-- Telegram -->
@@ -88,4 +88,4 @@
 ### <img width="3%" title="Telegram" src="images/logo_stacks/tg.png"> Интеграция с Telegram
 ##### После прохождения тестов, в Telegram bot приходит сообщение с графиком и небольшой информацией о тестах.
 
-![This is an image](images/screenshots/tg_bot.png)
+![This is an image](resourses/icons/alluret4.png)
