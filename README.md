@@ -35,7 +35,7 @@
 
 ### [Job](https://jenkins.autotests.cloud/job/003_python-edbeg1337-head-hunter-mobile/)
 
-##### При нажатии на "Собрать сейчас" начнется сборка тестов и их прохождение, через виртуальную машину в Selenide.
+##### При нажатии на "Собрать с параметрами" откроеться окно где надо выбрать тесты которые запустяться через виртуальную машину в Selenide.
 ![This is an image](images/screenshots/jenkins.png)
 
 
