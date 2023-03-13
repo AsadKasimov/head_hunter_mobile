@@ -16,7 +16,8 @@
   <code><img width="5%" title="Selenoid" src="./resourses/icons/selenoid-logo.svg"></code>
   <code><img width="5%" title="Telegram" src="./resourses/icons/Telegram.svg"></code>
   <code><img width="5%" title="Appium" src="./resourses/icons/Appium-01.png"></code>
-
+  <code><img width="5%" title="Appium" src="./resourses/icons/browserstack.png"></code>
+  <code><img width="5%" title="Appium" src="./resourses/icons/selenium.png"></code>
 </p>
 
 
