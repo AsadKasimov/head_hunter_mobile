@@ -56,7 +56,12 @@
 
 ##### Видео прохождение теста
 ![This is an image](resourses/icons/allure4.gif)
-
+##### Видео прохождение теста на локальном устровйстве
+##### Код для запуска на локально
+````
+env -S 'context=local' pytest tests/android/test_search_without_login.py --alluredir reports
+````
+![This is an image](resourses/icons/allure5.gif)
 
 <!-- Allure TestOps -->
 
